@@ -10,9 +10,9 @@ $ pip3 install -r requirements.txt
 ## Runing application
 
 ```
+Python version supported 3.*
+
 $ source anyname/bin/activate
-if python 3.* is not your default python version then use
 $ python manage.py runserver
-else
-$ python3 manage.py runserver
+
 ```
