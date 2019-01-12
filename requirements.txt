@@ -1,0 +1,10 @@
+argh==0.26.2
+Django==2.1.5
+numpy==1.15.4
+pandas==0.23.4
+pathtools==0.1.2
+python-dateutil==2.7.5
+pytz==2018.9
+PyYAML==3.13
+six==1.12.0
+watchdog==0.9.0
